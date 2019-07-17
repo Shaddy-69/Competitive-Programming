@@ -2,13 +2,13 @@ import java.util.*;
 import java.io.*;
 class CV
 {
-    public static boolean isVowel(char ch)
-    {
-        if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u')
-        return true;
-        else
-        return false;
-    }
+	public static boolean isVowel(char ch)
+	{
+		if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u')
+		return true;
+		else
+		return false;
+	}
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		try
